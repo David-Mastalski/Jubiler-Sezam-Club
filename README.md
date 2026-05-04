@@ -40,6 +40,6 @@ Redesign został zrealizowany w ramach pracy nad produkcyjną aplikacją używan
 
 <p align="center">
   <img src="https://github.com/David-Mastalski/Jubiler-Sezam-Club/blob/main/assets/screen1.jpg" width="250" />
-  <img src="assets/screen2.png" width="250" />
-  <img src="assets/screen3.png" width="250" />
+  <img src="https://github.com/David-Mastalski/Jubiler-Sezam-Club/blob/main/assets/screen2.jpg" width="250" />
+  <img src="https://github.com/David-Mastalski/Jubiler-Sezam-Club/blob/main/assets/screen3.jpg" width="250" />
 </p>
