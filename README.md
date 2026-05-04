@@ -7,8 +7,7 @@ Jubiler Sezam Club to mobilna aplikacja lojalnościowa, która została przeproj
 
 Projekt obejmował kompleksowy redesign interfejsu użytkownika (UI) oraz usprawnienie doświadczeń użytkownika (UX), tak aby zapewnić spójność wizualną między aplikacją mobilną a platformą e-commerce.
 
-## 🚀 Technologia i Platforma
-<p><strong>Platforma:</strong> PrestaShop.</p>
-<p><strong>Technologie:</strong> JavaScript (ES6+), HTML5, CSS3</p>
-<p><strong>Metodologia:</strong> BEM dla zachowania czystości i skalowalności kodu</p>
-<p><strong>Podejście:</strong> Mobile-First Design & Responsive Web Design (RWD).</p>
+
+## 🛠️ Technologie
+<p><strong>React Native </strong></p>
+<p><strong>TypeScript</strong> JavaScript (ES6+), HTML5, CSS3</p>
