@@ -27,10 +27,10 @@ W ramach projektu byłem odpowiedzialny za:
 
 ## Pobierz aplikację
 Aplikacja jest dostępna na:
-- Google Play
+- [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.wiktor11254.JubilerSezamClub&utm_source=emea_Med)
 - App Store
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+
 
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/app/idYOUR_APP_ID)
 
