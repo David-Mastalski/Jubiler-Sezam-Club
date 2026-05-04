@@ -9,5 +9,5 @@ Projekt obejmował kompleksowy redesign interfejsu użytkownika (UI) oraz uspraw
 
 
 ## 🛠️ Technologie
-<p><strong>React Native </strong></p>
-<p><strong>TypeScript</strong> JavaScript (ES6+), HTML5, CSS3</p>
+- React Native 
+- TypeScript
