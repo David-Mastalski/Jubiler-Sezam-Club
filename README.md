@@ -1,4 +1,4 @@
-# Jubiler-Sezam-Club
+# Jubiler Sezam Club
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,3 +37,7 @@ Aplikacja jest dostępna na:
 Projekt dotyczył warstwy frontendowej aplikacji. Backend oraz logika biznesowa nie były przedmiotem zmian.
 
 Redesign został zrealizowany w ramach pracy nad produkcyjną aplikacją używaną przez klientów marki.
+
+![Screen 1](assets/screen1.png)
+![Screen 2](assets/screen2.png)
+![Screen 3](assets/screen3.png)
