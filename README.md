@@ -38,6 +38,8 @@ Projekt dotyczył warstwy frontendowej aplikacji. Backend oraz logika biznesowa 
 
 Redesign został zrealizowany w ramach pracy nad produkcyjną aplikacją używaną przez klientów marki.
 
-![Screen 1](assets/screen1.png)
-![Screen 2](assets/screen2.png)
-![Screen 3](assets/screen3.png)
+<p align="center">
+  <img src="assets/screen1.png" width="250" />
+  <img src="assets/screen2.png" width="250" />
+  <img src="assets/screen3.png" width="250" />
+</p>
