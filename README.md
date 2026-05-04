@@ -3,11 +3,38 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-Jubiler Sezam Club to mobilna aplikacja lojalnościowa, która została przeprojektowana w celu dostosowania jej wyglądu oraz doświadczenia użytkownika do nowej wersji sklepu internetowego marki.
+Jubiler Sezam Club to mobilna aplikacja lojalnościowa przeznaczona dla klientów marki Jubiler Sezam. Projekt, nad którym pracowałem, polegał na kompleksowym redesignie aplikacji, mającym na celu dostosowanie jej wyglądu oraz doświadczenia użytkownika do nowej wersji sklepu internetowego.
 
-Projekt obejmował kompleksowy redesign interfejsu użytkownika (UI) oraz usprawnienie doświadczeń użytkownika (UX), tak aby zapewnić spójność wizualną między aplikacją mobilną a platformą e-commerce.
-
+Celem było stworzenie spójnego, nowoczesnego interfejsu, który będzie zgodny z aktualną identyfikacją wizualną marki oraz bardziej intuicyjny dla użytkowników.
 
 ## Technologie
 - React Native 
 - TypeScript
+  
+## Zakres prac
+W ramach projektu byłem odpowiedzialny za:
+- Kompleksowy redesign interfejsu użytkownika (UI)
+- Przeprojektowanie wszystkich ekranów i komponentów aplikacji
+- Stworzenie nowej warstwy UI dla mapy prezentującej lokalizacje sklepów
+- Usprawnienie i uporządkowanie wybranych elementów kodu frontendowego
+- Poprawę doświadczenia użytkownika (UX) poprzez lepszą strukturę
+
+## Najważniejsze zmiany
+- Całkowicie odświeżony wygląd aplikacji
+- Spójna i nowoczesna warstwa wizualna zgodna z nowym sklepem internetowym
+- Nowa, bardziej czytelna mapa z dedykowanym interfejsem użytkownika
+- Przebudowany panel użytkownika
+
+## Pobierz aplikację
+Aplikacja jest dostępna na:
+- Google Play
+- App Store
+
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/app/idYOUR_APP_ID)
+
+## 📌 Dodatkowe informacje
+Projekt dotyczył warstwy frontendowej aplikacji. Backend oraz logika biznesowa nie były przedmiotem zmian.
+
+Redesign został zrealizowany w ramach pracy nad produkcyjną aplikacją używaną przez klientów marki.
